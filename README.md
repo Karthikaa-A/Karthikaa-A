@@ -1,32 +1,62 @@
-# 👋 Hello, I'm Karthikaa A
+# 👋 Hello, I'm Karthika A
 
-A curious and driven **Business Analyst Enthusiast** exploring the power of data to drive smarter decisions. I specialize in transforming raw information into actionable insights using tools like **Excel**, **SQL**, **Python**, and **Power BI**. Based in India, I’m passionate about bridging analytics with real-world business impact.
+MBA Graduate passionate about business operations, reporting, coordination, and data-driven problem solving. I enjoy working on projects that improve processes, organize information, and turn data into meaningful insights for better decision-making.
+
+With experience in reporting, documentation, dashboard creation, and business coordination, I’m building a career at the intersection of operations, analytics, and organizational support.
 
 ---
 
-## 💼 My Toolkit
-- Microsoft Excel (Advanced: Power Query, Pivot Tables)
-- SQL (Joins, Subqueries)
-- Python (Pandas, NumPy, Scikit-learn)
-- Jupyter Notebook & Google Colab
-- Matplotlib & Power BI
-- PowerPoint & GitHub
+## 💼 Skills & Tools
+
+* Microsoft Excel (Pivot Tables, Dashboards, Power Query)
+* SQL (Basics)
+* Power BI
+* Python (Pandas, NumPy)
+* Jupyter Notebook & Google Colab
+* Documentation & Reporting
+* Process Coordination
+* MS Office
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Excel automation and dashboarding
-- SQL optimization and query design
-- Data storytelling with Power BI
-- Machine learning fundamentals using Python
+
+* Advanced Excel dashboarding & automation
+* HR Operations & Business Processes
+* Data storytelling with Power BI
+* SQL query optimization
+* Professional communication & reporting
 
 ---
 
 ## 📁 Featured Projects
-- 📊 [Vrinda Annual Sales Report](https://github.com/Karthikaa-A/Vrinda-Store-Report): Excel-based dashboard with slicers, pivot tables, and KPIs for sales insights.
-- 🏠 [House Price Prediction](https://github.com/Karthikaa-A/House-Price-Prediction-Simple-Linear-Regression): Linear regression model using Python to forecast housing prices.
+
+### 📊 Vrinda Annual Sales Report
+
+Interactive Excel dashboard using pivot tables, slicers, and KPIs to analyze sales performance and business trends.
+
+🔗 [View Project](PRIVATE_URL)
+
+### 🏠 House Price Prediction
+
+Built a simple linear regression model using Python to predict housing prices based on historical data.
+
+🔗 [View Project](PRIVATE_URL)
 
 ---
 
-## 🚀 Let’s Connect
-I’m always open to collaboration, feedback, and new opportunities in business analytics and data-driven strategy. Thanks for stopping by—happy coding and analyzing!
+## 🚀 Career Interests
+
+* HR Operations
+* Business Operations
+* Reporting & Coordination
+* Administrative Support
+* Business Analytics
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to learning opportunities, collaborations, and entry-level roles in HR Operations, Business Operations, and Analytics.
+
+🔗 LinkedIn: <PRIVATE_URL>
