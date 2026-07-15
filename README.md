@@ -35,19 +35,19 @@ With experience in reporting, documentation, dashboard creation, and business co
 
 Interactive Excel dashboard using pivot tables, slicers, and KPIs to analyze sales performance and business trends.
 
-🔗 [View Project](PRIVATE_URL)
+🔗 [View Project]([[PRIVATE_URL](https://github.com/Karthikaa-A/Vrinda-Sales-Report)])
 
 ### 🏠 House Price Prediction
 
 Built a simple linear regression model using Python to predict housing prices based on historical data.
 
-🔗 [View Project](PRIVATE_URL)
+🔗 [View Project]([PRIVATE_URL](https://github.com/Karthikaa-A/House-Price-Prediction-Simple-Linear-Regression))
 
 ### 📦 Inventory Dispute Analysis & Resolution
 
 Analyzed an inventory discrepancy scenario by identifying the root cause through stakeholder requirements, process mapping, and data analysis.
 
-🔗 [View Project](PRIVATE_URL)
+🔗 [View Project]([PRIVATE_URL](https://github.com/Karthikaa-A/BA-Portfolio-Inventory-Dispute))
 
 ---
 
