@@ -43,6 +43,12 @@ Built a simple linear regression model using Python to predict housing prices ba
 
 🔗 [View Project](PRIVATE_URL)
 
+### 📦 Inventory Dispute Analysis & Resolution
+
+Analyzed an inventory discrepancy scenario by identifying the root cause through stakeholder requirements, process mapping, and data analysis.
+
+🔗 [View Project](PRIVATE_URL)
+
 ---
 
 ## 🚀 Career Interests
